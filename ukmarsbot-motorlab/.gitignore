@@ -1,0 +1,22 @@
+/Release/
+/sloeber.ino.cpp
+
+# Sloeber projects are defined by sloeber.cfg not the Eclipse files
+.cproject
+.project
+.settings/
+.sproject
+spec.d
+
+# geberated files
+firmware.*
+
+# spreadsheet locks
+.~*
+
+# Mac files we don't care about
+.DS_Store
+
+# VIM files we don't care about
+*.swp
+
