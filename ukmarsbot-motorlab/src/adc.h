@@ -20,7 +20,7 @@ public:
    *  is reduced to a value of 32. This gives an ADC clock speed of
    *  500kHz and a single conversion in around 26us. SNR is still pretty good
    *  at these speeds:
-   *  http://www.openmusiclabs.com/learning/digital/atmega-m_adc_reading/
+   *  http://www.openmusiclabs.com/learning/digital/atmega-adc/
    *
    * @brief change the ADC prescaler to give a suitable conversion rate.
    */
